@@ -81,6 +81,7 @@ position: relative;
 .container-titulo
 {
     display: none;
+    margin-right: auto;
 }
 
 .opcoes
